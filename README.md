@@ -1,2 +1,2 @@
 # JavaBasic202601
-Đây là source code học phần JavaBasic
+JavaBasic(자바베이스)의 소스 코드입니다.
